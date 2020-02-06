@@ -1,2 +1,2 @@
 # SDC-bookings-NginxServer
-Setting up nginx 
+- completed nginx 
